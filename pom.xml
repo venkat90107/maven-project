@@ -15,7 +15,12 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
-
+         
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example.maven-project</groupId>
+  <artifactId>maven-project</artifactId>
+  <version>1.0-SNAPSHOT</version>
+         
   <modules>
     <module>server</module>
     <module>webapp</module>
