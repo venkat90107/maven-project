@@ -2,11 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   
-
-  <groupId>com.example.maven-project</groupId>
-  <artifactId>Webapp</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.0</version>
   <name>Webapp</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
